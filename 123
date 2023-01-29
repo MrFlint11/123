@@ -1,0 +1,3 @@
+let randomName = ["sef0rt", "snrschmitty", "mrflint_", "kamatuzaa"];
+let randomIndex = Math.floor(Math.random() * randomName.length);
+console.log(randomName[randomIndex]);
